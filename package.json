@@ -1,11 +1,11 @@
 {
-  "name": "como-crear-un-token-en-solana",
+  "name": "The last war",
   "version": "1.0.0",
   "main": "mpl_metadata.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "RSZT",
+  "author": "NLC",
   "license": "ISC",
   "dependencies": {
     "@metaplex-foundation/mpl-token-metadata": "^3.1.2",
